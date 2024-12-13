@@ -77,7 +77,13 @@
 
 
 #<RedesSociales>
+127.0.0.1   www.youtube.com
+127.0.0.1   youtube.com
+127.0.0.1   www.netflix.com
+127.0.0.1   netflix.com
+127.0.0.1   www.hulu.com
+127.0.0.1   hulu.com
 
 
-#<Streming>
+#<Streaming>
 
